@@ -1,0 +1,2 @@
+sample1@xyz.com,target_1's_name
+sample2@xyz.com,target_2's_name
